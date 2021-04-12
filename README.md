@@ -1,6 +1,5 @@
 # Google-Clone-Personal-Project
 
-# Tech in my project build
 
 # Plan of action
 
