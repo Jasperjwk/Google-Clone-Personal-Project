@@ -12,7 +12,8 @@
 6) Firebase to setup the app to connect to google
 7) Use firebase hosting to deploy the app
 
-Hosting URL: https://clone-personal-project-15e4e.web.app
+# Hosting URL: 
+https://clone-personal-project-15e4e.web.app
 
 # My Personal Notes
 
