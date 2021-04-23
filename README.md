@@ -15,6 +15,14 @@ https://clone-personal-project-15e4e.web.app
 6) Firebase to setup the app to connect to google
 7) Use firebase hosting to deploy the app
 
+# Steps to deploy my project using firebase
+
+1) npm install -g firebase-tools
+2) firebase init (hosting > build > y > n)
+3) npm run build
+4) firebase use "project id"
+5) firebase deploy
+
 
 # My Personal Notes
 
@@ -82,14 +90,6 @@ z-index: 100;
 
 // Remove hyperlink field
 text-decoration: none;
-
-# Steps to deploy my project using firebase
-
-1) npm install -g firebase-tools
-2) firebase init (hosting > build > y > n)
-3) npm run build
-4) firebase use "project id"
-5) firebase deploy
 
 
 
