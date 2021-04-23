@@ -1,5 +1,9 @@
 # Google-Clone-Personal-Project
 
+# Hosting URL: 
+https://clone-personal-project-15e4e.web.app
+
+![google search](https://user-images.githubusercontent.com/63961200/115817142-d7256300-a42c-11eb-8614-ad07c44f9dfe.gif)
 
 # Plan of action
 
@@ -11,8 +15,6 @@
 6) Firebase to setup the app to connect to google
 7) Use firebase hosting to deploy the app
 
-# Hosting URL: 
-https://clone-personal-project-15e4e.web.app
 
 # My Personal Notes
 
